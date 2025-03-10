@@ -370,7 +370,7 @@ async def doing_the_work(
     )
     message = await context.bot.send_message(
         user_id,
-        f"⏳ يتم جلب المعلومات من الموقع ...\n\n0 / {len(numbers)}  [▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️]",
+        f"⏳ يتم جلب المعلومات من الموقع ...\n\n0 / {len(numbers)}\n  [▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️]",
         reply_to_message_id=user_msg_id,
         reply_markup=keyboard,
     )
