@@ -41,8 +41,8 @@ def initialize_table():
     """
     nfrowhtml = """
 <tr>
-<td style="color:#fff;background-color:#7a7a7a;font-size: 22px;">اسم المادة</td>
 <td style="color:#fff;background-color:#7a7a7a;font-size: 22px;">الاسم</td>
+<td style="color:#fff;background-color:#7a7a7a;font-size: 22px;">اسم المادة</td>
 <td style="color:#fff;background-color:#7a7a7a;font-size: 22px;">درجة العملي</td>
 <td style="color:#fff;background-color:#7a7a7a;font-size: 22px;">درجة النظري</td>
 <td style="color:#fff;background-color:#7a7a7a;font-size: 22px;">الدرجة النهائية</td>
